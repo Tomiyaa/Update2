@@ -1,7 +1,4 @@
 
 <Version: 1.02>
-/data/test.zip https://drive.google.com/drive/folders/1dXwY_dUAqRnX0szif7lVMeG60Fzgchqo?usp=sharing
-<End of Version>
-<Version: 1.03>
-/data/test.zip https://drive.google.com/drive/folders/1dXwY_dUAqRnX0szif7lVMeG60Fzgchqo?usp=sharing
+/data/Map002.json https://raw.githubusercontent.com/Tomiyaa/Update2/main/Map002.json
 <End of Version>
